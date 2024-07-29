@@ -44,3 +44,7 @@
 *://play.google.com/store/apps/details?id=com.sprylab.axelspringer.tablet.welt* # Die Welt Android App
 *://www.instagram.com/welt/*
 *://www.lesershop24.de/die-welt/* # Digitales Abo Bild
+*://apps.apple.com/de/app/welt-news-online-nachrichten/id340021100* # WELT News App
+*://apps.apple.com/de/app/welt-news-online-nachrichten/* # WELT News App
+*://apps.apple.com/de/app/*/id340021100* # WELT News App
+
