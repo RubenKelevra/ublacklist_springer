@@ -169,10 +169,12 @@
 
 # Stepstone
 *://*.stepstone.de/*
-*://play.google.com/store/apps/details?id=com.stepstone.borowf01*
 *://*.stepstone.co.uk/*
 *://*.stepstonegroup.com/*
 *://*.thestepstonegroup.com/*
+*://*.stepstone.dk/*
+*://*.stepstone.at/*
+*://play.google.com/store/apps/details?id=com.stepstone.borowf01*
 *://*.linkedin.com/company/thestepstonegroup*
 *://*.hotelcareer.de/jobs/stepstone-deutschland-gmbh-53112*
 *://*.instagram.com/stepstone_de/*
@@ -185,6 +187,9 @@
 *://*.linkedin.com/company/stepstone-de*
 *://*.indeed.com/q-stepstone-l-bayern-jobs.html*
 *://*.reputativ.com/wiki/stepstone/*
+*://*.xing.com/pages/stepstonegmbh*
+*://raven51.de/stellenboersen/stepstone/*
+*://jobadpartner.de/stepstone/*
 
 # awinglobal
 
