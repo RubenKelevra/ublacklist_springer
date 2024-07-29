@@ -5,8 +5,9 @@
 *://*.facebook.com/bild/*
 *://*.instagram.com/bild/*
 *://www.youtube.com/channel/UC4zcMHyrT_xyWlgy5WGpFFQ* # Bild
-*://apps.apple.com/de/app/bild-news-live-nachrichten/* # Bild
-*://apps.apple.com/de/app/*/id340030725* # Bild
+*://apps.apple.com/*/app/bild-news-live-nachrichten/id340030725* # Bild App
+*://apps.apple.com/*/app/bild-news-live-nachrichten/* # Bild App
+*://apps.apple.com/*/app/*/id340030725* # Bild App
 *://*.linkedin.com/company/bild-* 
 *://*.ikiosk.de/shop/epaper/bild.html* # Digitales Abo Bild
 *://twitter.com/bild*
@@ -24,9 +25,9 @@
 *://*.bildderfrau.de/*
 *://*.bildconnect.de/* # Bild Mobiltelefon-Tarif
 *://www.ikiosk.de/shop/epaper/sport-bild.html*  # Digitales Abo Sport Bild
-*://apps.apple.com/de/app/bild-epaper/id498216807* # BILD ePaper
-*://apps.apple.com/de/app/bild-epaper/* # BILD ePaper
-*://apps.apple.com/de/app/*/id498216807* # BILD ePaper
+*://apps.apple.com/*/app/bild-epaper/id498216807* # BILD ePaper
+*://apps.apple.com/*/app/bild-epaper/* # BILD ePaper
+*://apps.apple.com/*/app/*/id498216807* # BILD ePaper
 *://*.wissen-sie-mehr.de/* # Bild investigativ
 *://de.readly.com/magazines/bild* # Digitales Abo Bild
 *://*.sportbild.de/*
@@ -46,9 +47,9 @@
 *://play.google.com/store/apps/details?id=com.sprylab.axelspringer.tablet.welt* # Die Welt Android App
 *://www.instagram.com/welt/*
 *://www.lesershop24.de/die-welt/* # Digitales Abo Bild
-*://apps.apple.com/de/app/welt-news-online-nachrichten/id340021100* # WELT News App
-*://apps.apple.com/de/app/welt-news-online-nachrichten/* # WELT News App
-*://apps.apple.com/de/app/*/id340021100* # WELT News App
+*://apps.apple.com/*/app/welt-news-online-nachrichten/id340021100* # WELT News App
+*://apps.apple.com/*/app/welt-news-online-nachrichten/* # WELT News App
+*://apps.apple.com/*/app/*/id340021100* # WELT News App
 *://play.google.com/store/apps/details?id=de.cellular.n24hybrid* # WELT News Android App
 *://de.wikipedia.org/wiki/Die_Welt
 *://www.mediaimpact.de/de/portfolio/welt-digital* # Welt ad
@@ -64,8 +65,10 @@
 *://www.facebook.com/businessinsider/*
 *://twitter.com/businessinsider*
 *://x.com/businessinsider*
-*://apps.apple.com/de/app/business-insider/id554260576*
-*://apps.apple.com/de/app/business-insider/*
-*://apps.apple.com/de/app/*/id554260576*
+*://apps.apple.com/*/app/business-insider/id554260576*
+*://apps.apple.com/*/app/business-insider/*
+*://apps.apple.com/*/app/*/id554260576*
 *://play.google.com/store/apps/details?id=com.freerange360.mpp.businessinsider* # Business Insider Android App
 *://*.linkedin.com/company/business-insider-deutschland*
+*://medium.com/@businessinsider*
+
