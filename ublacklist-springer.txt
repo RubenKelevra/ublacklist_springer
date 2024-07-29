@@ -4,7 +4,7 @@
 *://*.bild.de/*
 *://*.facebook.com/bild/*
 *://*.instagram.com/bild/*
-*://www.youtube.com/channel/UC4zcMHyrT_xyWlgy5WGpFFQ* # Bild
+*://*.youtube.com/channel/UC4zcMHyrT_xyWlgy5WGpFFQ* # Bild
 *://apps.apple.com/*/app/bild-news-live-nachrichten/id340030725* # Bild App
 *://apps.apple.com/*/app/bild-news-live-nachrichten/* # Bild App
 *://apps.apple.com/*/app/*/id340030725* # Bild App
@@ -17,14 +17,14 @@
 *://*.united-kiosk.de/zeitschriften/zeitung/bild/*
 *://*.autobild.de/*
 *://play.google.com/store/apps/details?id=com.netbiscuits.bild.android* # Android App Bild
-*://www.lesershop24.de/bild/* # Digitales Abo Bild
+*://*.lesershop24.de/bild/* # Digitales Abo Bild
 *://*.axelspringer.de/*
-*://www.amazon.de/BILD/dp/B01MQYSSWJ* # Alexa Skill Bild
-*://www.mediaimpact.de/de/portfolio/bild* # Bild Ad
-*://www.handelsblatt.com/themen/bild* # Bild-Referenzen im Handelsblatt
+*://*.amazon.de/BILD/dp/B01MQYSSWJ* # Alexa Skill Bild
+*://*.mediaimpact.de/de/portfolio/bild* # Bild Ad
+*://*.handelsblatt.com/themen/bild* # Bild-Referenzen im Handelsblatt
 *://*.bildderfrau.de/*
 *://*.bildconnect.de/* # Bild Mobiltelefon-Tarif
-*://www.ikiosk.de/shop/epaper/sport-bild.html*  # Digitales Abo Sport Bild
+*://*.ikiosk.de/shop/epaper/sport-bild.html*  # Digitales Abo Sport Bild
 *://apps.apple.com/*/app/bild-epaper/id498216807* # BILD ePaper
 *://apps.apple.com/*/app/bild-epaper/* # BILD ePaper
 *://apps.apple.com/*/app/*/id498216807* # BILD ePaper
@@ -32,37 +32,37 @@
 *://de.readly.com/magazines/bild* # Digitales Abo Bild
 *://*.sportbild.de/*
 *://play.google.com/store/apps/details?id=de.bild.MeinKlub* # Sportbild Android App
-*://www.tagesschau.de/thema/bild-zeitung* # Thema Bildzeitung
+*://*.tagesschau.de/thema/bild-zeitung* # Thema Bildzeitung
 *://*.axelspringer.com/*
 *://de.wikipedia.org/wiki/Axel_Springer_SE # Artikel über Axel Springer Verlag
 *://de.wikipedia.org/wiki/Axel_Springer # Artikel über Axel Springer
 *://*.axelspringerplugandplay.com/* # Axel Springer Klüngel
-*://www.hdg.de/lemo/biografie/axel-springer.html* # Artikel über Axel Springer
+*://*.hdg.de/lemo/biografie/axel-springer.html* # Artikel über Axel Springer
 *://*.welt.de/*
-*://www.youtube.com/channel/UCZMsvbAhhRblVGXmEXW8TSA* # Die Welt
+*://*.youtube.com/channel/UCZMsvbAhhRblVGXmEXW8TSA* # Die Welt
 *://twitter.com/welt*
 *://x.com/welt*
-*://www.facebook.com/welt/*
-*://www.ikiosk.de/shop/epaper/die-welt.html* # Digitales Abo Bild
+*://*.facebook.com/welt/*
+*://*.ikiosk.de/shop/epaper/die-welt.html* # Digitales Abo Bild
 *://play.google.com/store/apps/details?id=com.sprylab.axelspringer.tablet.welt* # Die Welt Android App
-*://www.instagram.com/welt/*
-*://www.lesershop24.de/die-welt/* # Digitales Abo Bild
+*://*.instagram.com/welt/*
+*://*.lesershop24.de/die-welt/* # Digitales Abo Bild
 *://apps.apple.com/*/app/welt-news-online-nachrichten/id340021100* # WELT News App
 *://apps.apple.com/*/app/welt-news-online-nachrichten/* # WELT News App
 *://apps.apple.com/*/app/*/id340021100* # WELT News App
 *://play.google.com/store/apps/details?id=de.cellular.n24hybrid* # WELT News Android App
 *://de.wikipedia.org/wiki/Die_Welt
-*://www.mediaimpact.de/de/portfolio/welt-digital* # Welt ad
-*://www.spiegel.de/thema/die_welt/* # Die Welt tag on Spiegel
+*://*.mediaimpact.de/de/portfolio/welt-digital* # Welt ad
+*://*.spiegel.de/thema/die_welt/* # Die Welt tag on Spiegel
 *://*.businessinsider.com/*
 *://*.businessinsider.de/*
-*://www.youtube.com/user/businessinsider*
+*://*.youtube.com/user/businessinsider*
 *://en.wikipedia.org/wiki/Business_Insider
 *://de.wikipedia.org/wiki/Business_Insider
-*://www.facebook.com/Business.Insider.Deutschland/*
-*://www.mediaimpact.de/en/portfolio/business-insider* # Business Insider ad
-*://www.instagram.com/businessinsider.de/*
-*://www.facebook.com/businessinsider/*
+*://*.facebook.com/Business.Insider.Deutschland/*
+*://*.mediaimpact.de/en/portfolio/business-insider* # Business Insider ad
+*://*.instagram.com/businessinsider.de/*
+*://*.facebook.com/businessinsider/*
 *://twitter.com/businessinsider*
 *://x.com/businessinsider*
 *://apps.apple.com/*/app/business-insider/id554260576*
@@ -71,4 +71,20 @@
 *://play.google.com/store/apps/details?id=com.freerange360.mpp.businessinsider* # Business Insider Android App
 *://*.linkedin.com/company/business-insider-deutschland*
 *://medium.com/@businessinsider*
+*://*.independent.co.uk/topic/business-insider*
+*://*.instagram.com/insiderbusiness/*
+*://*.insider-inc.com/* # Business Insider ad
+*://*.pinterest.com/businessinsider/*
+*://fortune.com/author/business-insider/* # Tag for Business Insider content
+*://*.fastly.com/customers/business-insider* # Business Insider ad
+*://*.youtube.com/watch?v=M7u7pRUXokk* # Business Insider video
+*://*.library.hbs.edu/find/databases/business-insider # Business Insider database
+*://*.inc.com/author/business-insider* # Business Insider ad
+*://*.linkedin.com/in/ericaberenstein # Business Insider staff
+*://*.scmp.com/author/business-insider* # Tag for Business Insider content
+*://*.crunchbase.com/organization/business-insider # Business Insider ad
+*://*.youtube.com/watch?v=CZORI0SjsM8* # Business Insider video
+*://*.cnbc.com/id/44642508* # Business Insider ad
+*://*.linkedin.com/in/orlando-reece-7093a93b # Business Insider staff
+*://*.youtube.com/watch?v=YQZxWtJfYCM* # Business Insider video
 
