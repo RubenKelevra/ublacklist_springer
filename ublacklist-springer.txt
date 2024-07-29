@@ -10,6 +10,7 @@
 *://*.linkedin.com/company/bild-* 
 *://*.ikiosk.de/shop/epaper/bild.html* # Digitales Abo Bild
 *://twitter.com/bild*
+*://x.com/bild*
 *://*.computerbild.de/*
 *://*.mediaimpact.de/de/portfolio/bild-digital*
 *://*.united-kiosk.de/zeitschriften/zeitung/bild/*
@@ -39,6 +40,7 @@
 *://*.welt.de/*
 *://www.youtube.com/channel/UCZMsvbAhhRblVGXmEXW8TSA* # Die Welt
 *://twitter.com/welt*
+*://x.com/welt*
 *://www.facebook.com/welt/*
 *://www.ikiosk.de/shop/epaper/die-welt.html* # Digitales Abo Bild
 *://play.google.com/store/apps/details?id=com.sprylab.axelspringer.tablet.welt* # Die Welt Android App
@@ -48,4 +50,20 @@
 *://apps.apple.com/de/app/welt-news-online-nachrichten/* # WELT News App
 *://apps.apple.com/de/app/*/id340021100* # WELT News App
 *://play.google.com/store/apps/details?id=de.cellular.n24hybrid* # WELT News Android App
-
+*://de.wikipedia.org/wiki/Die_Welt
+*://www.mediaimpact.de/de/portfolio/welt-digital* # Welt ad
+*://www.spiegel.de/thema/die_welt/* # Die Welt tag on Spiegel
+*://*.businessinsider.com/*
+*://*.businessinsider.de/*
+*://www.youtube.com/user/businessinsider*
+*://en.wikipedia.org/wiki/Business_Insider
+*://de.wikipedia.org/wiki/Business_Insider
+*://www.facebook.com/Business.Insider.Deutschland/*
+*://www.mediaimpact.de/en/portfolio/business-insider* # Business Insider ad
+*://www.instagram.com/businessinsider.de/*
+*://www.facebook.com/businessinsider/*
+*://twitter.com/businessinsider*
+*://x.com/businessinsider*
+*://apps.apple.com/de/app/business-insider/id554260576*
+*://apps.apple.com/de/app/business-insider/*
+*://apps.apple.com/de/app/*/id554260576*
