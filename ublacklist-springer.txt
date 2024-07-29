@@ -113,3 +113,17 @@
 *://*.youtube.com/watch?v=CcP3L-n4fw0* # Politico Video
 *://*.insider.com/*
 *://*.youtube.com/@Insider
+*://*.idealo.de/*
+*://*.stepstone.de/*
+*://*.awinglobal.com/*
+*://*.bonial.com/*
+*://*.aviv-group.com/*
+*://*.jobsite.co.uk/*
+*://*.totaljobs.com/*
+*://*.meinestadt.de/*
+*://*.seLoger.com/*
+*://*.immoweb.be/*
+*://*.logic-immo.com/*
+*://*.meilleursagents.com/*
+*://*.atHome.lu/*
+*://*.stepstone.co.uk/*
