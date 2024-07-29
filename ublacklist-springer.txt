@@ -36,3 +36,11 @@
 *://de.wikipedia.org/wiki/Axel_Springer # Artikel über Axel Springer
 *://*.axelspringerplugandplay.com/* # Axel Springer Klüngel
 *://www.hdg.de/lemo/biografie/axel-springer.html* # Artikel über Axel Springer
+*://*.welt.de/*
+*://www.youtube.com/channel/UCZMsvbAhhRblVGXmEXW8TSA* # Die Welt
+*://twitter.com/welt*
+*://www.facebook.com/welt/*
+*://www.ikiosk.de/shop/epaper/die-welt.html* # Digitales Abo Bild
+*://play.google.com/store/apps/details?id=com.sprylab.axelspringer.tablet.welt* # Die Welt Android App
+*://www.instagram.com/welt/*
+*://www.lesershop24.de/die-welt/* # Digitales Abo Bild
