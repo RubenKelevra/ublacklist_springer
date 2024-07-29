@@ -1,8 +1,6 @@
 # UBlacklist Axel Springer SE
 # https://github.com/RubenKelevra/ublacklist_springer
 
-# Bild am Sonntag
-
 *://*.bild.de/*
 *://*.facebook.com/bild/*
 *://*.instagram.com/bild/*
@@ -175,6 +173,18 @@
 *://*.stepstone.co.uk/*
 *://*.stepstonegroup.com/*
 *://*.thestepstonegroup.com/*
+*://*.linkedin.com/company/thestepstonegroup*
+*://*.hotelcareer.de/jobs/stepstone-deutschland-gmbh-53112*
+*://*.instagram.com/stepstone_de/*
+*://apps.apple.com/*/app/stepstone-jobs-deine-jobb%C3%B6rse/id388123359*
+*://apps.apple.com/*/app/stepstone-jobs-deine-jobb%C3%B6rse/*
+*://apps.apple.com/*/app/*/id388123359*
+*://*.youtube.com/channel/UClP4B9pr459_Cus0DQ4WesA*
+*://*.tiktok.com/@stepstone.de*
+*://*.xn--jobbrse-stellenangebote-blc.de/jobs-stepstone-de/*
+*://*.linkedin.com/company/stepstone-de*
+*://*.indeed.com/q-stepstone-l-bayern-jobs.html*
+*://*.reputativ.com/wiki/stepstone/*
 
 # awinglobal
 
