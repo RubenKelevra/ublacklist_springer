@@ -105,4 +105,6 @@
 *://*.independent.co.uk/topic/politico* # Politico topic
 *://de.wikipedia.org/wiki/Politico # Politico article
 *://*.youtube.com/watch?v=Cl7K5jwpDgM* # Politico Video
-
+*://*.youtube.com/channel/UCgjtvMmHXbutALaw9XzRkAg* # Politico channel
+*://*.nytimes.com/2021/08/26/business/politico-axel-springer-acquired.html # Politico article
+*://*.linkedin.com/in/sarah-wheaton-248b943* # Politico staff
