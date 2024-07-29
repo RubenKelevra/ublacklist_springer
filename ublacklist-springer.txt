@@ -87,4 +87,22 @@
 *://*.cnbc.com/id/44642508* # Business Insider ad
 *://*.linkedin.com/in/orlando-reece-7093a93b # Business Insider staff
 *://*.youtube.com/watch?v=YQZxWtJfYCM* # Business Insider video
+*://*.politico.com/*
+*://*.politico.eu/*
+*://en.wikipedia.org/wiki/Politico_Europe # Politico article
+*://en.wikipedia.org/wiki/Politico # Politico article
+*://twitter.com/politico*
+*://x.com/politico*
+*://*.youtube.com/channel/UCWMhlrCnmb14IkQBfiSXktA* # Politico channel
+*://*.instagram.com/politico/*
+*://*.linkedin.com/company/politico*
+*://*.facebook.com/politico/*
+*://apps.apple.com/*/app/politico/id358305912* # Politico app
+*://apps.apple.com/*/app/*/id358305912* # Politico app
+*://apps.apple.com/*/app/politico/* # Politico app
+*://*.facebook.com/POLITICOeu/*
+*://play.google.com/store/apps/details?id=com.politico.android* # Politico app
+*://*.independent.co.uk/topic/politico* # Politico topic
+*://de.wikipedia.org/wiki/Politico # Politico article
+*://*.youtube.com/watch?v=Cl7K5jwpDgM* # Politico Video
 
