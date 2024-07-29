@@ -12,32 +12,56 @@
 *://*.ikiosk.de/shop/epaper/bild.html* # Digitales Abo Bild
 *://twitter.com/bild*
 *://x.com/bild*
-*://*.computerbild.de/*
 *://*.mediaimpact.de/de/portfolio/bild-digital*
 *://*.united-kiosk.de/zeitschriften/zeitung/bild/*
-*://*.autobild.de/*
 *://play.google.com/store/apps/details?id=com.netbiscuits.bild.android* # Android App Bild
 *://*.lesershop24.de/bild/* # Digitales Abo Bild
-*://*.axelspringer.de/*
 *://*.amazon.de/BILD/dp/B01MQYSSWJ* # Alexa Skill Bild
 *://*.mediaimpact.de/de/portfolio/bild* # Bild Ad
 *://*.handelsblatt.com/themen/bild* # Bild-Referenzen im Handelsblatt
-*://*.bildderfrau.de/*
-*://*.bildconnect.de/* # Bild Mobiltelefon-Tarif
-*://*.ikiosk.de/shop/epaper/sport-bild.html*  # Digitales Abo Sport Bild
 *://apps.apple.com/*/app/bild-epaper/id498216807* # BILD ePaper
 *://apps.apple.com/*/app/bild-epaper/* # BILD ePaper
 *://apps.apple.com/*/app/*/id498216807* # BILD ePaper
-*://*.wissen-sie-mehr.de/* # Bild investigativ
 *://de.readly.com/magazines/bild* # Digitales Abo Bild
-*://*.sportbild.de/*
-*://play.google.com/store/apps/details?id=de.bild.MeinKlub* # Sportbild Android App
 *://*.tagesschau.de/thema/bild-zeitung* # Thema Bildzeitung
+
+# Auto Bild
+
+*://*.autobild.de/*
+
+# Computerbild
+
+*://*.computerbild.de/*
+
+# Bild der Frau
+
+*://*.bildderfrau.de/*
+
+# Bild Mobiltelefon-Tarif
+
+*://*.bildconnect.de/* 
+
+# Bild investigativ
+
+*://*.wissen-sie-mehr.de/* 
+
+# Sportbild
+
+*://*.sportbild.de/*
+*://*.ikiosk.de/shop/epaper/sport-bild.html*  # Digitales Abo Sport Bild
+*://play.google.com/store/apps/details?id=de.bild.MeinKlub* # Sportbild Android App
+
+# Axel Springer
+
 *://*.axelspringer.com/*
+*://*.axelspringer.de/*
 *://de.wikipedia.org/wiki/Axel_Springer_SE # Artikel über Axel Springer Verlag
 *://de.wikipedia.org/wiki/Axel_Springer # Artikel über Axel Springer
 *://*.axelspringerplugandplay.com/* # Axel Springer Klüngel
 *://*.hdg.de/lemo/biografie/axel-springer.html* # Artikel über Axel Springer
+
+# Die Welt 
+
 *://*.welt.de/*
 *://*.youtube.com/channel/UCZMsvbAhhRblVGXmEXW8TSA* # Die Welt
 *://twitter.com/welt*
@@ -54,6 +78,9 @@
 *://de.wikipedia.org/wiki/Die_Welt
 *://*.mediaimpact.de/de/portfolio/welt-digital* # Welt ad
 *://*.spiegel.de/thema/die_welt/* # Die Welt tag on Spiegel
+
+# Business Insider
+
 *://*.businessinsider.com/*
 *://*.businessinsider.de/*
 *://*.youtube.com/user/businessinsider*
@@ -87,6 +114,9 @@
 *://*.cnbc.com/id/44642508* # Business Insider ad
 *://*.linkedin.com/in/orlando-reece-7093a93b # Business Insider staff
 *://*.youtube.com/watch?v=YQZxWtJfYCM* # Business Insider video
+
+# Politico
+
 *://*.politico.com/*
 *://*.politico.eu/*
 *://en.wikipedia.org/wiki/Politico_Europe # Politico article
@@ -111,8 +141,12 @@
 *://*.youtube.com/watch?v=iE4S4X6Phdg* # Politico Video
 *://*.youtube.com/watch?v=hh5Qy_eyuLc* # Politico Video
 *://*.youtube.com/watch?v=CcP3L-n4fw0* # Politico Video
+
+# Insider
 *://*.insider.com/*
 *://*.youtube.com/@Insider
+
+# Idealo
 *://*.idealo.de/*
 *://*.idealo.com/*
 *://apps.apple.com/*/app/idealo-preisvergleich-online/id454415640*
@@ -132,17 +166,46 @@
 *://apps.apple.com/*/app/idealo-flug-und-hotel-angebote/*
 *://apps.apple.com/*/app/*/id565107138*
 *://medium.com/idealo-tech-blog
+
+# Stepstone
 *://*.stepstone.de/*
+*://play.google.com/store/apps/details?id=com.stepstone.borowf01*
+*://*.stepstone.co.uk/*
+*://*.stepstonegroup.com/*
+*://*.thestepstonegroup.com/*
+
+# awinglobal
+
 *://*.awinglobal.com/*
+
+# bonial
+
 *://*.bonial.com/*
+
+# aviv-group
+
 *://*.aviv-group.com/*
+
+# jobsite
+
 *://*.jobsite.co.uk/*
+
+# totaljobs
+
 *://*.totaljobs.com/*
+
+# meinestadt
+
 *://*.meinestadt.de/*
+
+# seLoger
+
 *://*.seLoger.com/*
+
+# immoweb
+
 *://*.immoweb.be/*
 *://*.immoweb.de/*
-*://*.immowelt.de/*
 *://play.google.com/store/apps/details?id=com.produpress.immoweb*
 *://apps.apple.com/*/app/immoweb/id420654412*
 *://apps.apple.com/*/app/immoweb/*
@@ -154,8 +217,21 @@
 *://twitter.com/immoweb*
 *://x.com/immoweb*
 *://play.google.com/store/apps/developer?id=Immoweb*
+*://nl.wikipedia.org/wiki/Immoweb
 *://*.instagram.com/immoweb/*
+
+# immowelt
+
+*://*.immowelt.de/*
+
+# logic-immo
+
 *://*.logic-immo.com/*
+
+# meilleursagents
+
 *://*.meilleursagents.com/*
+
+# atHome
+
 *://*.atHome.lu/*
-*://*.stepstone.co.uk/*
