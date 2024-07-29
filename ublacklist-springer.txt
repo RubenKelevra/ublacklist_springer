@@ -1,0 +1,38 @@
+# UBlacklist Axel Springer SE
+# https://github.com/RubenKelevra/ublacklist_springer
+
+*://*.bild.de/*
+*://*.facebook.com/bild/*
+*://*.instagram.com/bild/*
+*://www.youtube.com/channel/UC4zcMHyrT_xyWlgy5WGpFFQ* # Bild
+*://apps.apple.com/de/app/bild-news-live-nachrichten/* # Bild
+*://apps.apple.com/de/app/*/id340030725* # Bild
+*://*.linkedin.com/company/bild-* 
+*://*.ikiosk.de/shop/epaper/bild.html* # Digitales Abo Bild
+*://twitter.com/bild*
+*://*.computerbild.de/*
+*://*.mediaimpact.de/de/portfolio/bild-digital*
+*://*.united-kiosk.de/zeitschriften/zeitung/bild/*
+*://*.autobild.de/*
+*://play.google.com/store/apps/details?id=com.netbiscuits.bild.android* # Android App Bild
+*://www.lesershop24.de/bild/* # Digitales Abo Bild
+*://*.axelspringer.de/*
+*://www.amazon.de/BILD/dp/B01MQYSSWJ* # Alexa Skill Bild
+*://www.mediaimpact.de/de/portfolio/bild* # Bild Ad
+*://www.handelsblatt.com/themen/bild* # Bild-Referenzen im Handelsblatt
+*://*.bildderfrau.de/*
+*://*.bildconnect.de/* # Bild Mobiltelefon-Tarif
+*://www.ikiosk.de/shop/epaper/sport-bild.html*  # Digitales Abo Sport Bild
+*://apps.apple.com/de/app/bild-epaper/id498216807* # BILD ePaper
+*://apps.apple.com/de/app/bild-epaper/* # BILD ePaper
+*://apps.apple.com/de/app/*/id498216807* # BILD ePaper
+*://*.wissen-sie-mehr.de/* # Bild investigativ
+*://de.readly.com/magazines/bild* # Digitales Abo Bild
+*://*.sportbild.de/*
+*://play.google.com/store/apps/details?id=de.bild.MeinKlub* # Sportbild Android App
+*://www.tagesschau.de/thema/bild-zeitung* # Thema Bildzeitung
+*://*.axelspringer.com/*
+*://de.wikipedia.org/wiki/Axel_Springer_SE # Artikel über Axel Springer Verlag
+*://de.wikipedia.org/wiki/Axel_Springer # Artikel über Axel Springer
+*://*.axelspringerplugandplay.com/* # Axel Springer Klüngel
+*://www.hdg.de/lemo/biografie/axel-springer.html* # Artikel über Axel Springer
