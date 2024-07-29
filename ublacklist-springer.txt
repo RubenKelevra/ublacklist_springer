@@ -141,6 +141,8 @@
 *://*.meinestadt.de/*
 *://*.seLoger.com/*
 *://*.immoweb.be/*
+*://*.immoweb.de/*
+*://*.immowelt.de/*
 *://*.logic-immo.com/*
 *://*.meilleursagents.com/*
 *://*.atHome.lu/*
