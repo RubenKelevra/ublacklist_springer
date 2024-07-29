@@ -108,3 +108,6 @@
 *://*.youtube.com/channel/UCgjtvMmHXbutALaw9XzRkAg* # Politico channel
 *://*.nytimes.com/2021/08/26/business/politico-axel-springer-acquired.html # Politico article
 *://*.linkedin.com/in/sarah-wheaton-248b943* # Politico staff
+*://*.youtube.com/watch?v=iE4S4X6Phdg* # Politico Video
+*://*.youtube.com/watch?v=hh5Qy_eyuLc* # Politico Video
+*://*.youtube.com/watch?v=CcP3L-n4fw0* # Politico Video
