@@ -67,3 +67,5 @@
 *://apps.apple.com/de/app/business-insider/id554260576*
 *://apps.apple.com/de/app/business-insider/*
 *://apps.apple.com/de/app/*/id554260576*
+*://play.google.com/store/apps/details?id=com.freerange360.mpp.businessinsider* # Business Insider Android App
+*://*.linkedin.com/company/business-insider-deutschland*
