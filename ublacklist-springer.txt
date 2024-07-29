@@ -47,4 +47,5 @@
 *://apps.apple.com/de/app/welt-news-online-nachrichten/id340021100* # WELT News App
 *://apps.apple.com/de/app/welt-news-online-nachrichten/* # WELT News App
 *://apps.apple.com/de/app/*/id340021100* # WELT News App
+*://play.google.com/store/apps/details?id=de.cellular.n24hybrid* # WELT News Android App
 
