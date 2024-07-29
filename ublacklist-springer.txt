@@ -1,6 +1,8 @@
 # UBlacklist Axel Springer SE
 # https://github.com/RubenKelevra/ublacklist_springer
 
+# Bild am Sonntag
+
 *://*.bild.de/*
 *://*.facebook.com/bild/*
 *://*.instagram.com/bild/*
