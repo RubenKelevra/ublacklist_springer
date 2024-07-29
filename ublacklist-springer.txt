@@ -111,3 +111,5 @@
 *://*.youtube.com/watch?v=iE4S4X6Phdg* # Politico Video
 *://*.youtube.com/watch?v=hh5Qy_eyuLc* # Politico Video
 *://*.youtube.com/watch?v=CcP3L-n4fw0* # Politico Video
+*://*.insider.com/*
+*://*.youtube.com/@Insider
