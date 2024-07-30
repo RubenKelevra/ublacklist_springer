@@ -80,6 +80,8 @@
 *://*.as-corporate-solutions.de/* # Axel Springer Spinoff
 *://*.youtube.com/watch?v=E1H7fDEyKBs* # Axel Springer video
 *://*.youtube.com/watch?v=avI-JXHtgkI* # Axel Springer video
+*://*.unitytower-berlin.de/* # Axel Springer spinoff
+*://*.vertical-media.de/*  # Axel Springer spinoff?
 
 # Die Welt 
 
@@ -343,3 +345,20 @@
 # Bilanz
 
 *://*.bilanz.ch/*
+
+# Piano Software GmbH
+*://*.piano.io/*
+
+# Autohaus24
+*://*.autohaus24.de/*
+
+# Ozy.com
+*://*.ozy.com/*
+
+# SeLoger
+*://play.google.com/store/apps/details?id=com.seloger.android*
+*://myselogerpro.com/*
+*://apps.apple.com/*/app/seloger-annonces-immobili%C3%A8res/id326883014*
+*://apps.apple.com/*/app/*/id326883014*
+*://apps.apple.com/*/app/seloger-annonces-immobili%C3%A8res/*
+*://*.instagram.com/seloger/*
