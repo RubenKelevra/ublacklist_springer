@@ -331,3 +331,14 @@
 # Boleromagazin 
 *://*.boleromagazin.ch/*
 *://*.instagram.com/boleromagazin/* # Boleromagazin profil
+*://*.ringier-advertising.ch/de/brand/bolero/* 
+
+# Bilanz Homes
+*://*.facebook.com/p/Homes-Bilanz-HZ-100054607982435/*
+*://*.ringier-advertising.ch/de/brand/homes/*
+*://*.instagram.com/homes_bilanz_hz/* # Bilanz Homes profil
+*://ezb.uni-regensburg.de/detail.phtml?bibid=EZBDO&colors=7&lang=*&jour_id=431339*
+
+# Bilanz
+
+*://*.bilanz.ch/*
