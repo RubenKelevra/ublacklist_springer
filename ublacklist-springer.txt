@@ -366,3 +366,5 @@
 # Yad2
 
 *://*.yad2.co.il/*
+*://play.google.com/store/apps/details?id=com.goldtouch.ct.yad2*
+*://*.linkedin.com/company/yad2*
