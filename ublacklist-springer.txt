@@ -60,6 +60,24 @@
 *://en.wikipedia.org/wiki/Axel_Springer_SE # Artikel über Axel Springer
 *://*.axelspringerplugandplay.com/* # Axel Springer Klüngel
 *://*.hdg.de/lemo/biografie/axel-springer.html* # Artikel über Axel Springer
+*://twitter.com/axelspringer* # Profil von Axel Springer
+*://x.com/axelspringer* # Profil von Axel Springer
+*://*.youtube.com/axelspringer* # Profil von Axel Springer
+*://*.instagram.com/axelspringer_se/* # Profil von Axel Springer
+*://*.linkedin.com/company/axelspringer/* # Profil von Axel Springer
+*://*.xing.com/pages/axelspringerse* # Profil von Axel Springer
+*://apps.apple.com/*/developer/axel-springer-se/id340021103* # Apps von Axel Springer
+*://apps.apple.com/*/developer/*/id340021103* # Apps von Axel Springer
+*://apps.apple.com/*/developer/axel-springer-se/* # Apps von Axel Springer
+*://soundcloud.com/user-964017459* # Profil von Axel Springer
+*://github.com/axelspringer # Profil von Axel Springer
+*://*.axelspringer-syndication.de/* # Axel Springer Spinoff
+*://*.amazon.de/Kindle-Shop-Axel-Springer-SE/s?rh=n%3A530484031%2Cp_27%3AAxel+Springer+SE* # Kindle Shop
+*://*.linkedin.com/in/nastasia-pawlak-667b85a2* # Axel Springer staff
+*://*.handelsblatt.com/themen/axel-springer* # Axel Springer-Referenzen im Handelsblatt
+*://*.axelspringerstiftung.de/* # Axel Springer Spinoff
+*://*.facebook.com/p/Axel-Springer-SE-100070914302223/*  # Profil von Axel Springer
+*://*.as-corporate-solutions.de/* # Axel Springer Spinoff
 
 # Die Welt 
 
