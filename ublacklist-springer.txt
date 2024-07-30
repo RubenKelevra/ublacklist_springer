@@ -320,6 +320,7 @@
 
 # Beobachter (Zeitschrift)
 *://*.beobachter.ch/*
+*://*.guider.ch/*
 
 # L’illustré
 *://*.illustre.ch/*
