@@ -277,3 +277,57 @@
 # atHome
 
 *://*.atHome.lu/*
+
+# Axel Springer Polska (Ringier Axel Springer Polska)
+*://*.ringieraxelspringer.pl/*
+
+# Emarketer
+*://*.emarketer.com/*
+
+# Ladenzeile
+
+*://*.ladenzeile.de/*
+
+# Handelszeitung ch
+*://*.handelszeitung.ch/*
+
+# Sales Impact Gmbh
+
+*://*.salesimpact.de/*
+
+# PME Magazin
+*://*.pme.ch/
+
+# TV Star
+*://*.tvstar.ch/*
+
+# Tele (Schweizer Zeitschrift)
+*://*.tele.ch/*
+
+# Schweizer Illustrierte
+*://*.schweizer-illustrierte.ch/*
+
+# Glückspost
+*://*.glueckspost.ch/*
+*://*.instagram.com/glueckspost/*
+*://*.facebook.com/128651837163751/* # Glückspost profil
+*://*.facebook.com/glueckspost/* # Glückspost profil
+
+# Gault-Millau
+*://*.gaultmillau.com/*
+*://*.gaultmillau.ch/*
+*://*.gaultmillau.at/*
+
+# Beobachter (Zeitschrift)
+*://*.beobachter.ch/*
+
+# L’illustré
+*://*.illustre.ch/*
+
+# Schweizer LandLiebe Magazin
+*://*.landliebe.ch/*
+*://*.instagram.com/schweizer_landliebe/* # LandLiebe Magazin profil
+
+# Boleromagazin 
+*://*.boleromagazin.ch/*
+*://*.instagram.com/boleromagazin/* # Boleromagazin profil
