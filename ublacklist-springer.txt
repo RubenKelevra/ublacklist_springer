@@ -78,6 +78,8 @@
 *://*.axelspringerstiftung.de/* # Axel Springer Spinoff
 *://*.facebook.com/p/Axel-Springer-SE-100070914302223/*  # Profil von Axel Springer
 *://*.as-corporate-solutions.de/* # Axel Springer Spinoff
+*://*.youtube.com/watch?v=E1H7fDEyKBs* # Axel Springer video
+*://*.youtube.com/watch?v=avI-JXHtgkI* # Axel Springer video
 
 # Die Welt 
 
@@ -213,6 +215,10 @@
 # awinglobal
 
 *://*.awinglobal.com/*
+
+# awin.com
+
+*://*.awin.com/*
 
 # bonial
 
