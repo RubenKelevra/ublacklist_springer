@@ -368,3 +368,10 @@
 *://*.yad2.co.il/*
 *://play.google.com/store/apps/details?id=com.goldtouch.ct.yad2*
 *://*.linkedin.com/company/yad2*
+
+# Sparheld / meingutscheincode.de / gutscheinsammler.de
+
+*://*.gutscheinsammler.de/*
+*://*.sparheld.de/*
+*://*.meingutscheincode.de/*
+
