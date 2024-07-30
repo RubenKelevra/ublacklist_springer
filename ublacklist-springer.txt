@@ -57,6 +57,7 @@
 *://*.axelspringer.de/*
 *://de.wikipedia.org/wiki/Axel_Springer_SE # Artikel über Axel Springer Verlag
 *://de.wikipedia.org/wiki/Axel_Springer # Artikel über Axel Springer
+*://en.wikipedia.org/wiki/Axel_Springer_SE # Artikel über Axel Springer
 *://*.axelspringerplugandplay.com/* # Axel Springer Klüngel
 *://*.hdg.de/lemo/biografie/axel-springer.html* # Artikel über Axel Springer
 
