@@ -362,3 +362,7 @@
 *://apps.apple.com/*/app/*/id326883014*
 *://apps.apple.com/*/app/seloger-annonces-immobili%C3%A8res/*
 *://*.instagram.com/seloger/*
+
+# Yad2
+
+*://*.yad2.co.il/*
