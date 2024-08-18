@@ -1,5 +1,8 @@
-# UBlacklist Axel Springer SE
-# https://github.com/RubenKelevra/ublacklist_springer
+---
+name: uBlacklist Axel Springer SE
+description: Hides all Axel Springer SE media outlets, including mentiones/topics on other sides
+homepage: https://github.com/RubenKelevra/ublacklist_springer
+---
 
 # Bild
 
