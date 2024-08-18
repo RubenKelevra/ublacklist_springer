@@ -1,6 +1,8 @@
 # UBlacklist Axel Springer SE
 # https://github.com/RubenKelevra/ublacklist_springer
 
+# Bild
+
 *://*.bild.de/*
 *://*.facebook.com/bild/*
 *://*.instagram.com/bild/*
@@ -166,10 +168,12 @@
 *://*.youtube.com/watch?v=CcP3L-n4fw0* # Politico Video
 
 # Insider
+
 *://*.insider.com/*
 *://*.youtube.com/@Insider
 
 # Idealo
+
 *://*.idealo.de/*
 *://*.idealo.com/*
 *://apps.apple.com/*/app/idealo-preisvergleich-online/id454415640*
@@ -191,6 +195,7 @@
 *://medium.com/idealo-tech-blog
 
 # Stepstone
+
 *://*.stepstone.de/*
 *://*.stepstone.co.uk/*
 *://*.stepstonegroup.com/*
@@ -281,9 +286,11 @@
 *://*.atHome.lu/*
 
 # Axel Springer Polska (Ringier Axel Springer Polska)
+
 *://*.ringieraxelspringer.pl/*
 
 # Emarketer
+
 *://*.emarketer.com/*
 
 # Ladenzeile
@@ -291,6 +298,7 @@
 *://*.ladenzeile.de/*
 
 # Handelszeitung ch
+
 *://*.handelszeitung.ch/*
 
 # Sales Impact Gmbh
@@ -298,45 +306,55 @@
 *://*.salesimpact.de/*
 
 # PME Magazin
+
 *://*.pme.ch/
 
 # TV Star
+
 *://*.tvstar.ch/*
 
 # Tele (Schweizer Zeitschrift)
+
 *://*.tele.ch/*
 
 # Schweizer Illustrierte
 *://*.schweizer-illustrierte.ch/*
 
 # Glückspost
+
 *://*.glueckspost.ch/*
 *://*.instagram.com/glueckspost/*
 *://*.facebook.com/128651837163751/* # Glückspost profil
 *://*.facebook.com/glueckspost/* # Glückspost profil
 
 # Gault-Millau
+
 *://*.gaultmillau.com/*
 *://*.gaultmillau.ch/*
 *://*.gaultmillau.at/*
 
 # Beobachter (Zeitschrift)
+
 *://*.beobachter.ch/*
 *://*.guider.ch/*
 
 # L’illustré
+
 *://*.illustre.ch/*
 
 # Schweizer LandLiebe Magazin
+
 *://*.landliebe.ch/*
 *://*.instagram.com/schweizer_landliebe/* # LandLiebe Magazin profil
 
-# Boleromagazin 
+# Boleromagazin
+
 *://*.boleromagazin.ch/*
 *://*.instagram.com/boleromagazin/* # Boleromagazin profil
 *://*.ringier-advertising.ch/de/brand/bolero/* 
 
 # Bilanz Homes
+
 *://*.facebook.com/p/Homes-Bilanz-HZ-100054607982435/*
 *://*.ringier-advertising.ch/de/brand/homes/*
 *://*.instagram.com/homes_bilanz_hz/* # Bilanz Homes profil
@@ -347,15 +365,19 @@
 *://*.bilanz.ch/*
 
 # Piano Software GmbH
+
 *://*.piano.io/*
 
 # Autohaus24
+
 *://*.autohaus24.de/*
 
 # Ozy.com
+
 *://*.ozy.com/*
 
 # SeLoger
+
 *://play.google.com/store/apps/details?id=com.seloger.android*
 *://myselogerpro.com/*
 *://apps.apple.com/*/app/seloger-annonces-immobili%C3%A8res/id326883014*
