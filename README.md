@@ -10,3 +10,7 @@ To add this blocklist to block all sites related to Axel Springer SE add this UR
 ```
 https://raw.githubusercontent.com/RubenKelevra/ublacklist_springer/master/ublacklist-springer.txt
 ```
+
+### Found a bug?
+
+If you found a bug, [let me know](https://github.com/RubenKelevra/ublacklist_springer/issues/new)!
