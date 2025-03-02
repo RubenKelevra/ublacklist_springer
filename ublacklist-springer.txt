@@ -375,6 +375,14 @@ homepage: https://github.com/RubenKelevra/ublacklist_springer
 
 *://*.autohaus24.de/*
 
+# Qwant
+*://*.qwant.com/*
+*://play.google.com/store/apps/details?id=com.qwant.liberty*
+*://en.wikipedia.org/wiki/Qwant*
+*://de.wikipedia.org/wiki/Qwant*
+*://*.chip.de/downloads/webapp-Qwant-Suchmaschine_164060806.html*
+*://*.netzwelt.de/download/24644-qwant.html*
+
 # Ozy.com
 
 *://*.ozy.com/*

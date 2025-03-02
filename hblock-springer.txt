@@ -146,6 +146,9 @@ piano.io
 # Autohaus24
 autohaus24.de
 
+# Qwant
+qwant.com
+
 # Ozy.com
 ozy.com
 
