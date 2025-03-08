@@ -9,26 +9,22 @@ homepage: https://github.com/RubenKelevra/ublacklist_springer
 *://*.bild.de/*
 *://*.facebook.com/bild/*
 *://*.instagram.com/bild/*
-*://*.youtube.com/channel/UC4zcMHyrT_xyWlgy5WGpFFQ* # Bild
-*://apps.apple.com/*/app/bild-news-live-nachrichten/id340030725* # Bild App
-*://apps.apple.com/*/app/bild-news-live-nachrichten/* # Bild App
-*://apps.apple.com/*/app/*/id340030725* # Bild App
-*://*.linkedin.com/company/bild-* 
-*://*.ikiosk.de/shop/epaper/bild.html* # Digitales Abo Bild
-*://twitter.com/bild*
-*://x.com/bild*
-*://*.mediaimpact.de/de/portfolio/bild-digital*
-*://*.united-kiosk.de/zeitschriften/zeitung/bild/*
-*://play.google.com/store/apps/details?id=com.netbiscuits.bild.android* # Android App Bild
+*://*.youtube.com/*UC4zcMHyrT_xyWlgy5WGpFFQ* # Bild
+*://*.apple.com/*id340030725* # Bild App
+*://*.linkedin.com/*/bild-* 
+*://*.ikiosk.de/*/bild.html* # Digitales Abo Bild
+*://*.twitter.com/bild*
+*://*.x.com/bild*
+*://*.mediaimpact.de/*bild-digital*
+*://*.united-kiosk.de/*bild*
+*://*.google.com/*id=com.netbiscuits.bild.android* # Android App Bild
 *://*.lesershop24.de/bild/* # Digitales Abo Bild
-*://*.amazon.de/BILD/dp/B01MQYSSWJ* # Alexa Skill Bild
-*://*.mediaimpact.de/de/portfolio/bild* # Bild Ad
-*://*.handelsblatt.com/themen/bild* # Bild-Referenzen im Handelsblatt
-*://apps.apple.com/*/app/bild-epaper/id498216807* # BILD ePaper
-*://apps.apple.com/*/app/bild-epaper/* # BILD ePaper
-*://apps.apple.com/*/app/*/id498216807* # BILD ePaper
-*://de.readly.com/magazines/bild* # Digitales Abo Bild
-*://*.tagesschau.de/thema/bild-zeitung* # Thema Bildzeitung
+*://*.amazon.de/*B01MQYSSW* # Alexa Skill Bild
+*://*.mediaimpact.de/*bild* # Bild Ad
+*://*.handelsblatt.com/*bild* # Bild-Referenzen im Handelsblatt
+*://*.apple.com/*id498216807* # BILD ePaper
+*://*.readly.com/*bild* # Digitales Abo Bild
+*://*.tagesschau.de/*bild-zeitung* # Thema Bildzeitung
 
 # Auto Bild
 
@@ -53,47 +49,42 @@ homepage: https://github.com/RubenKelevra/ublacklist_springer
 # Sportbild
 
 *://*.sportbild.de/*
-*://*.ikiosk.de/shop/epaper/sport-bild.html*  # Digitales Abo Sport Bild
-*://play.google.com/store/apps/details?id=de.bild.MeinKlub* # Sportbild Android App
+*://*.ikiosk.de/*sport-bild*  # Digitales Abo Sport Bild
+*://*.google.com/*id=de.bild.MeinKlub* # Sportbild Android App
 
 # Axel Springer
 
 *://*.axelspringer.com/*
 *://*.axelspringer.de/*
-*://de.wikipedia.org/wiki/Axel_Springer_SE # Artikel über Axel Springer Verlag
-*://de.wikipedia.org/wiki/Axel_Springer # Artikel über Axel Springer
-*://en.wikipedia.org/wiki/Axel_Springer_SE # Artikel über Axel Springer
 *://*.axelspringerplugandplay.com/* # Axel Springer Klüngel
-*://*.hdg.de/lemo/biografie/axel-springer.html* # Artikel über Axel Springer
-*://twitter.com/axelspringer* # Profil von Axel Springer
-*://x.com/axelspringer* # Profil von Axel Springer
-*://*.youtube.com/axelspringer* # Profil von Axel Springer
+*://*.hdg.de/*/axel-springer.html* # Artikel über Axel Springer
+*://*.twitter.com/axelspringer* # Profil von Axel Springer
+*://*.x.com/axelspringer* # Profil von Axel Springer
+*://*.youtube.com/*axelspringer* # Profil von Axel Springer
 *://*.instagram.com/axelspringer_se/* # Profil von Axel Springer
 *://*.linkedin.com/company/axelspringer/* # Profil von Axel Springer
 *://*.xing.com/pages/axelspringerse* # Profil von Axel Springer
-*://apps.apple.com/*/developer/axel-springer-se/id340021103* # Apps von Axel Springer
-*://apps.apple.com/*/developer/*/id340021103* # Apps von Axel Springer
-*://apps.apple.com/*/developer/axel-springer-se/* # Apps von Axel Springer
-*://soundcloud.com/user-964017459* # Profil von Axel Springer
-*://github.com/axelspringer # Profil von Axel Springer
+*://*.apple.com/*id340021103* # Apps von Axel Springer
+*://*.soundcloud.com/user-964017459* # Profil von Axel Springer
+*://*.github.com/axelspringer/* # Profil von Axel Springer
 *://*.axelspringer-syndication.de/* # Axel Springer Spinoff
 *://*.amazon.de/Kindle-Shop-Axel-Springer-SE/s?rh=n%3A530484031%2Cp_27%3AAxel+Springer+SE* # Kindle Shop
-*://*.linkedin.com/in/nastasia-pawlak-667b85a2* # Axel Springer staff
+*://*.linkedin.com/*/nastasia-pawlak-667b85a2* # Axel Springer staff
 *://*.handelsblatt.com/themen/axel-springer* # Axel Springer-Referenzen im Handelsblatt
 *://*.axelspringerstiftung.de/* # Axel Springer Spinoff
 *://*.facebook.com/p/Axel-Springer-SE-100070914302223/*  # Profil von Axel Springer
 *://*.as-corporate-solutions.de/* # Axel Springer Spinoff
-*://*.youtube.com/watch?v=E1H7fDEyKBs* # Axel Springer video
-*://*.youtube.com/watch?v=avI-JXHtgkI* # Axel Springer video
+*://*.youtube.com/*v=E1H7fDEyKBs* # Axel Springer video
+*://*.youtube.com/*v=avI-JXHtgkI* # Axel Springer video
 *://*.unitytower-berlin.de/* # Axel Springer spinoff
 *://*.vertical-media.de/*  # Axel Springer spinoff?
 
 # Die Welt 
 
 *://*.welt.de/*
-*://*.youtube.com/channel/UCZMsvbAhhRblVGXmEXW8TSA* # Die Welt
-*://twitter.com/welt*
-*://x.com/welt*
+*://*.youtube.com/*UCZMsvbAhhRblVGXmEXW8TSA* # Die Welt
+*://*.twitter.com/welt*
+*://*.x.com/welt*
 *://*.facebook.com/welt/*
 *://*.ikiosk.de/shop/epaper/die-welt.html* # Digitales Abo Bild
 *://play.google.com/store/apps/details?id=com.sprylab.axelspringer.tablet.welt* # Die Welt Android App
