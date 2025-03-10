@@ -42,11 +42,11 @@ homepage: https://github.com/RubenKelevra/ublacklist_springer
 
 # Bild Mobiltelefon-Tarif
 
-*://*.bildconnect.de/* 
+*://*.bildconnect.de/*
 
 # Bild investigativ
 
-*://*.wissen-sie-mehr.de/* 
+*://*.wissen-sie-mehr.de/*
 
 # Sportbild
 
@@ -58,9 +58,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_springer
 
 *://*.axelspringer.com/*
 *://*.axelspringer.de/*
-*://de.wikipedia.org/wiki/Axel_Springer_SE # Artikel über Axel Springer Verlag
-*://de.wikipedia.org/wiki/Axel_Springer # Artikel über Axel Springer
-*://en.wikipedia.org/wiki/Axel_Springer_SE # Artikel über Axel Springer
 *://*.axelspringerplugandplay.com/* # Axel Springer Klüngel
 *://*.hdg.de/*/axel-springer.* # Artikel über Axel Springer
 *://*.twitter.com/axelspringer* # Profil von Axel Springer
@@ -85,7 +82,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_springer
 *://*.unitytower-berlin.de/* # Axel Springer spinoff
 *://*.vertical-media.de/*  # Axel Springer spinoff?
 
-# Die Welt 
+# Die Welt
 
 *://*.welt.de/*
 *://*.youtube.com/channel/UCZMsvbAhhRblVGXmEXW8TSA* # Die Welt
@@ -99,7 +96,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_springer
 *://apps.apple.com/*/welt-news-online-nachrichten/id340021100* # WELT News App
 *://apps.apple.com/*/welt-news-online-nachrichten/* # WELT News App
 *://play.google.com/*id=de.cellular.n24hybrid* # WELT News Android App
-*://de.wikipedia.org/wiki/Die_Welt
 *://*.mediaimpact.de/*/welt-digital* # Welt ad
 *://*.spiegel.de/*/die_welt/* # Die Welt tag on Spiegel
 
@@ -108,8 +104,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_springer
 *://*.businessinsider.com/*
 *://*.businessinsider.de/*
 *://*.youtube.com/user/businessinsider*
-*://en.wikipedia.org/wiki/Business_Insider
-*://de.wikipedia.org/wiki/Business_Insider
 *://*.facebook.com/Business.Insider.Deutschland/*
 *://*.mediaimpact.de/*/business-insider* # Business Insider ad
 *://*.instagram.com/businessinsider.de/*
@@ -142,8 +136,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_springer
 
 *://*.politico.com/*
 *://*.politico.eu/*
-*://en.wikipedia.org/wiki/Politico_Europe # Politico article
-*://en.wikipedia.org/wiki/Politico # Politico article
 *://*.twitter.com/politico*
 *://*.x.com/politico*
 *://*.youtube.com/channel/UCWMhlrCnmb14IkQBfiSXktA* # Politico channel
@@ -155,7 +147,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_springer
 *://*.facebook.com/POLITICOeu/*
 *://play.google.com/*id=com.politico.android* # Politico app
 *://*.independent.co.uk/*/politico* # Politico topic
-*://de.wikipedia.org/wiki/Politico # Politico article
 *://*.youtube.com/*v=Cl7K5jwpDgM* # Politico Video
 *://*.youtube.com/channel/UCgjtvMmHXbutALaw9XzRkAg* # Politico channel
 *://*.nytimes.com/2021/08/26/business/politico-axel-springer-acquired.html # Politico article
@@ -180,7 +171,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_springer
 *://*.youtube.com/user/idealoChannel*
 *://*.amazon.de/idealo-preisvergleich/*
 *://de.linkedin.com/*/idealo-internet-gmbh/*
-*://de.wikipedia.org/wiki/Idealo
 *://*.facebook.com/idealoDE/*
 *://*.twitter.com/idealo_de*
 *://*.x.com/idealo_de*
@@ -258,7 +248,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_springer
 *://*.twitter.com/immoweb*
 *://*.x.com/immoweb*
 *://play.google.com/*?id=Immoweb*
-*://nl.wikipedia.org/wiki/Immoweb
 *://*.instagram.com/immoweb/*
 
 # immowelt
@@ -343,7 +332,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_springer
 
 *://*.boleromagazin.ch/*
 *://*.instagram.com/boleromagazin/* # Boleromagazin profil
-*://*.ringier-advertising.ch/de/brand/bolero/* 
+*://*.ringier-advertising.ch/de/brand/bolero/*
 
 # Bilanz Homes
 
@@ -367,8 +356,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_springer
 # Qwant
 *://*.qwant.com/*
 *://play.google.com/*id=com.qwant.liberty*
-*://en.wikipedia.org/wiki/Qwant*
-*://de.wikipedia.org/wiki/Qwant*
 *://*.chip.de/*Qwant-Suchmaschine*
 *://*.netzwelt.de/download/*qwant.*
 

@@ -1,0 +1,162 @@
+# Bild
+bild.de
+
+# Auto Bild
+autobild.de
+
+# Computerbild
+computerbild.de
+
+# Bild der Frau
+bildderfrau.de
+
+# Bild Mobiltelefon-Tarif
+bildconnect.de
+
+# Bild investigativ
+wissen-sie-mehr.de
+
+# Sportbild
+sportbild.de
+
+# Axel Springer
+axelspringer.com
+axelspringer.de
+
+# Die Welt
+welt.de
+
+# Business Insider
+businessinsider.com
+businessinsider.de
+
+# Politico
+politico.com
+politico.eu
+
+# Insider
+insider.com
+
+# Idealo
+idealo.com
+idealo.de
+
+# Stepstone
+stepstone.at
+stepstone.co.uk
+stepstone.de
+stepstone.dk
+stepstonegroup.com
+thestepstonegroup.com
+
+# awinglobal
+awinglobal.com
+
+# awin.com
+awin.com
+
+# bonial
+bonial.com
+
+# aviv-group
+aviv-group.com
+
+# jobsite
+jobsite.co.uk
+
+# totaljobs
+totaljobs.com
+
+# meinestadt
+meinestadt.de
+
+# seLoger
+seLoger.com
+
+# immoweb
+immoweb.be
+immoweb.de
+
+# immowelt
+immowelt.de
+
+# logic-immo
+logic-immo.com
+
+# meilleursagents
+meilleursagents.com
+
+# atHome
+atHome.lu
+
+# Axel Springer Polska (Ringier Axel Springer Polska)
+ringieraxelspringer.pl
+
+# Emarketer
+emarketer.com
+
+# Ladenzeile
+ladenzeile.de
+
+# Handelszeitung ch
+handelszeitung.ch
+
+# Sales Impact Gmbh
+salesimpact.de
+
+# PME Magazin
+pme.ch
+
+# TV Star
+tvstar.ch
+
+# Tele (Schweizer Zeitschrift)
+tele.ch
+
+# Schweizer Illustrierte
+schweizer-illustrierte.ch
+
+# Glückspost
+glueckspost.ch
+
+# Gault-Millau
+gaultmillau.at
+gaultmillau.ch
+gaultmillau.com
+
+# Beobachter (Zeitschrift)
+beobachter.ch
+guider.ch
+
+# L’illustré
+illustre.ch
+
+# Schweizer LandLiebe Magazin
+landliebe.ch
+
+# Boleromagazin
+boleromagazin.ch
+
+# Bilanz
+bilanz.ch
+
+# Piano Software GmbH
+piano.io
+
+# Autohaus24
+autohaus24.de
+
+# Qwant
+qwant.com
+
+# Ozy.com
+ozy.com
+
+# Yad2
+yad2.co.il
+
+# Sparheld / meingutscheincode.de / gutscheinsammler.de
+gutscheinsammler.de
+meingutscheincode.de
+sparheld.de
+
